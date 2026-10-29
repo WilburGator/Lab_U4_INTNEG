@@ -1,0 +1,11 @@
+CREATE DATABASE IF NOT EXISTS u4_etl CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+USE u4_etl;
+CREATE TABLE IF NOT EXISTS raw_clientes (fila_id BIGINT AUTO_INCREMENT PRIMARY KEY,id_cliente INT,nombre VARCHAR(120),email VARCHAR(180),estado VARCHAR(100),fecha_registro VARCHAR(30));
+CREATE TABLE IF NOT EXISTS raw_pedidos (fila_id BIGINT AUTO_INCREMENT PRIMARY KEY,id_pedido INT,id_cliente INT,fecha_pedido VARCHAR(30),estado_pedido VARCHAR(40),importe DECIMAL(12,2));
+CREATE TABLE IF NOT EXISTS catalogo_estados (estado_canonico VARCHAR(10),nombre_oficial VARCHAR(100),alias VARCHAR(100),PRIMARY KEY(alias));
+CREATE TABLE IF NOT EXISTS stg_clientes (id_cliente INT PRIMARY KEY,nombre VARCHAR(120),email VARCHAR(180),estado_canonico VARCHAR(10));
+CREATE TABLE IF NOT EXISTS stg_pedidos (id_pedido INT PRIMARY KEY,id_cliente INT,fecha_pedido DATE,estado_pedido VARCHAR(30),importe DECIMAL(12,2));
+CREATE TABLE IF NOT EXISTS rechazos_pedidos (fila_id BIGINT PRIMARY KEY,id_pedido INT,motivo VARCHAR(200));
+CREATE TABLE IF NOT EXISTS dim_cliente (id_cliente INT PRIMARY KEY,nombre VARCHAR(120),estado_canonico VARCHAR(10));
+CREATE TABLE IF NOT EXISTS fact_ordenes (id_pedido INT PRIMARY KEY,id_cliente INT,fecha_pedido DATE,estado_pedido VARCHAR(30),importe DECIMAL(12,2),ultima_carga DATETIME);
+CREATE TABLE IF NOT EXISTS etl_auditoria (id BIGINT AUTO_INCREMENT PRIMARY KEY,fecha_ejecucion DATETIME,filas_origen INT,filas_validas INT,filas_rechazadas INT,filas_fact INT,ventas_validas DECIMAL(16,2),nota VARCHAR(255));

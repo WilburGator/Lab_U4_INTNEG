@@ -1,0 +1,511 @@
+﻿id_cliente,nombre,email,estado,fecha_registro
+1,Ana Martínez,cliente1@ejemplo.test,Guanajuato,2026-01-13
+2,Carlos Martínez,cliente2@ejemplo.test,CIUDAD DE MÉXICO,2026-03-12
+3,Elena García,cliente3@ejemplo.test,Guanajuato,2025-02-08
+4,Carlos López,cliente4@ejemplo.test,Jalisco,2025-10-05
+5,Ana Martínez,cliente5@ejemplo.test,CIUDAD DE MÉXICO,2025-04-16
+6,Elena García,cliente6@ejemplo.test,JAL,2026-03-01
+7,Carlos García,cliente7@ejemplo.test,QUERÉTARO,2025-03-28
+8,Ana López,cliente8@ejemplo.test,TAMAULIPAS,2025-10-13
+9,María López,cliente9@ejemplo.test,Nuevo León,2025-03-23
+10,Pedro López,cliente10@ejemplo.test,GUANAJUATO,2025-02-15
+11,Elena Flores,cliente11@ejemplo.test,Guanajuato,2025-08-27
+12,Ana López,cliente12@ejemplo.test,Tamaulipas,2025-06-13
+13,María Torres,cliente13@ejemplo.test,CIUDAD DE MÉXICO,2025-02-11
+14,María Torres,cliente14@ejemplo.test,CDMX,2025-11-21
+15,Pedro Flores,cliente15@ejemplo.test,Coahuila,2026-02-20
+16,María Flores,cliente16@ejemplo.test,Jalisco,2025-07-20
+17,Carlos Martínez,cliente17@ejemplo.test,NUEVO LEÓN,2025-04-14
+18,María Torres,cliente18@ejemplo.test,PUEBLA,2025-10-18
+19,Ana García,cliente19@ejemplo.test,GUANAJUATO,2025-12-30
+20,Carlos Torres,cliente20@ejemplo.test,Jalisco,2025-01-21
+21,Sofía Torres,cliente21@ejemplo.test,CIUDAD DE MÉXICO,2026-03-01
+22,Juan López,cliente22@ejemplo.test,Puebla,2025-05-16
+23,Elena García,cliente23@ejemplo.test,COAH,2025-04-12
+24,Luis Torres,cliente24@ejemplo.test,JAL,2026-05-01
+25,Ana Torres,cliente25@ejemplo.test,PUEBLA,2025-05-30
+26,Elena Flores,cliente26@ejemplo.test,GTO,2025-11-17
+27,Ana Martínez,cliente27@ejemplo.test,Coahuila,2025-08-23
+28,Pedro García,cliente28@ejemplo.test,TAMPS,2025-12-02
+29,Sofía Torres,cliente29@ejemplo.test,Ciudad de México,2025-02-11
+30,Pedro Ruiz,cliente30@ejemplo.test,COAH,2026-01-04
+31,Pedro Martínez,cliente31@ejemplo.test,TAMPS,2025-03-24
+32,Pedro Flores,cliente32@ejemplo.test,Puebla,2026-04-21
+33,Sofía Torres,cliente33@ejemplo.test,TAMPS,2026-04-13
+34,Juan Ruiz,cliente34@ejemplo.test,QUERÉTARO,2025-10-04
+35,Pedro Torres,cliente35@ejemplo.test,Querétaro,2025-02-09
+36,Juan Torres,cliente36@ejemplo.test,Jalisco,2025-10-19
+37,Elena García,cliente37@ejemplo.test,,2026-03-05
+38,Luis Ruiz,cliente38@ejemplo.test,Querétaro,2025-03-13
+39,Luis García,cliente39@ejemplo.test,QRO,2025-01-08
+40,Juan García,cliente40@ejemplo.test,JAL,2026-01-07
+41,Pedro Martínez,cliente41@ejemplo.test,QRO,2026-04-10
+42,Juan García,cliente42@ejemplo.test,Nuevo León,2025-01-31
+43,Ana Ruiz,cliente43@ejemplo.test,GTO,2026-05-06
+44,Pedro Martínez,cliente44@ejemplo.test,NUEVO LEÓN,2025-11-18
+45,Elena Torres,cliente45@ejemplo.test,Coahuila,2025-09-08
+46,Sofía López,cliente46@ejemplo.test,COAHUILA,2025-01-10
+47,Pedro López,cliente47@ejemplo.test,Guanajuato,2025-09-20
+48,Ana Torres,cliente48@ejemplo.test,Ciudad de México,2025-05-09
+49,Luis García,cliente49@ejemplo.test,TAMPS,2025-02-05
+50,Carlos Martínez,cliente50@ejemplo.test,GTO,2025-07-31
+51,Carlos Martínez,cliente51@ejemplo.test,GUANAJUATO,2025-06-03
+52,Elena López,cliente52@ejemplo.test,Jalisco,2025-04-07
+53,Juan Flores,,NL,2025-05-18
+54,Luis Torres,cliente54@ejemplo.test,JAL,2025-07-24
+55,Elena Ruiz,cliente55@ejemplo.test,NL,2025-03-05
+56,Luis Torres,cliente56@ejemplo.test,QRO,2025-01-17
+57,Luis López,cliente57@ejemplo.test,JALISCO,2026-01-22
+58,Carlos López,cliente58@ejemplo.test,CIUDAD DE MÉXICO,2025-03-24
+59,Pedro García,cliente59@ejemplo.test,JAL,2026-04-08
+60,Juan Torres,cliente60@ejemplo.test,Guanajuato,2025-06-02
+61,Elena Ruiz,cliente61@ejemplo.test,CIUDAD DE MÉXICO,2025-11-06
+62,Luis López,cliente62@ejemplo.test,Tamaulipas,2026-05-15
+63,María Martínez,cliente63@ejemplo.test,Tamaulipas,2026-05-08
+64,Luis García,cliente64@ejemplo.test,NUEVO LEÓN,2025-06-15
+65,Ana Martínez,cliente65@ejemplo.test,GUANAJUATO,2025-12-17
+66,Juan Flores,cliente66@ejemplo.test,Guanajuato,2025-06-17
+67,Carlos Ruiz,cliente67@ejemplo.test,JAL,2025-03-27
+68,Luis Martínez,cliente68@ejemplo.test,NL,2026-01-11
+69,Carlos Ruiz,cliente69@ejemplo.test,Guanajuato,2026-01-31
+70,Sofía López,cliente70@ejemplo.test,QUERÉTARO,2025-02-22
+71,Juan López,cliente71@ejemplo.test,PUE,2025-09-03
+72,María García,cliente72@ejemplo.test,JALISCO,2025-12-16
+73,Luis Torres,cliente73@ejemplo.test,JALISCO,2026-04-26
+74,María García,cliente74@ejemplo.test,,2025-10-28
+75,Carlos García,cliente75@ejemplo.test,COAHUILA,2025-08-06
+76,Elena Ruiz,cliente76@ejemplo.test,Nuevo León,2025-02-03
+77,Sofía Flores,cliente77@ejemplo.test,Tamaulipas,2025-04-24
+78,Carlos García,cliente78@ejemplo.test,Coahuila,2026-04-25
+79,Sofía López,cliente79@ejemplo.test,TAMPS,2025-07-04
+80,Luis García,cliente80@ejemplo.test,JALISCO,2025-08-16
+81,Sofía García,cliente81@ejemplo.test,PUE,2026-05-15
+82,Luis Martínez,cliente82@ejemplo.test,Guanajuato,2025-12-30
+83,Pedro Ruiz,cliente83@ejemplo.test,Tamaulipas,2025-05-02
+84,Luis López,cliente84@ejemplo.test,GUANAJUATO,2025-05-05
+85,Elena Ruiz,cliente85@ejemplo.test,TAMAULIPAS,2026-03-13
+86,Ana Ruiz,cliente86@ejemplo.test,GTO,2025-05-24
+87,Carlos García,cliente87@ejemplo.test,Querétaro,2025-01-22
+88,Sofía García,cliente88@ejemplo.test,Guanajuato,2025-06-08
+89,Elena García,cliente89@ejemplo.test,QUERÉTARO,2025-06-03
+90,Ana Ruiz,cliente90@ejemplo.test,Guanajuato,2025-01-28
+91,Luis Flores,cliente91@ejemplo.test,Tamaulipas,2025-11-12
+92,Carlos Martínez,cliente92@ejemplo.test,QRO,2025-11-24
+93,Luis Flores,cliente93@ejemplo.test,TAMAULIPAS,2026-05-01
+94,Elena Torres,cliente94@ejemplo.test,TAMPS,2025-09-11
+95,Ana Flores,cliente95@ejemplo.test,PUEBLA,2025-10-07
+96,Luis García,cliente96@ejemplo.test,JAL,2025-06-19
+97,Pedro Martínez,cliente97@ejemplo.test,Ciudad de México,2025-12-15
+98,María Torres,cliente98@ejemplo.test,NL,2025-10-22
+99,Carlos Torres,cliente99@ejemplo.test,COAH,2025-02-28
+100,Luis Flores,cliente100@ejemplo.test,JAL,2025-01-07
+101,María López,cliente101@ejemplo.test,Nuevo León,2025-06-10
+102,Carlos Torres,cliente102@ejemplo.test,Querétaro,2025-07-22
+103,Sofía Flores,cliente103@ejemplo.test,QUERÉTARO,2025-09-16
+104,Elena Ruiz,cliente104@ejemplo.test,JALISCO,2026-03-10
+105,Luis Martínez,cliente105@ejemplo.test,Guanajuato,2025-06-16
+106,Carlos Ruiz,,Jalisco,2025-10-30
+107,Elena López,cliente107@ejemplo.test,QUERÉTARO,2026-04-04
+108,Ana López,cliente108@ejemplo.test,NUEVO LEÓN,2025-12-02
+109,Sofía García,cliente109@ejemplo.test,COAH,2025-01-18
+110,Juan Torres,cliente110@ejemplo.test,CDMX,2025-05-27
+111,Sofía Flores,cliente111@ejemplo.test,,2025-06-22
+112,Juan Ruiz,cliente112@ejemplo.test,GTO,2025-11-10
+113,Pedro Martínez,cliente113@ejemplo.test,CIUDAD DE MÉXICO,2026-03-27
+114,Pedro López,cliente114@ejemplo.test,NL,2025-01-28
+115,Luis García,cliente115@ejemplo.test,Nuevo León,2026-04-12
+116,Pedro Torres,cliente116@ejemplo.test,NUEVO LEÓN,2025-11-17
+117,Ana López,cliente117@ejemplo.test,Tamaulipas,2025-01-27
+118,María García,cliente118@ejemplo.test,Guanajuato,2026-04-24
+119,Carlos Martínez,cliente119@ejemplo.test,CIUDAD DE MÉXICO,2025-05-13
+120,María García,cliente120@ejemplo.test,Guanajuato,2025-03-19
+121,Elena Flores,cliente121@ejemplo.test,GTO,2025-01-10
+122,Luis Martínez,cliente122@ejemplo.test,NUEVO LEÓN,2025-06-13
+123,Juan Flores,cliente123@ejemplo.test,Coahuila,2026-04-28
+124,Sofía Ruiz,cliente124@ejemplo.test,CDMX,2025-01-19
+125,Ana Ruiz,cliente125@ejemplo.test,COAHUILA,2025-04-22
+126,Sofía Flores,cliente126@ejemplo.test,Ciudad de México,2025-08-14
+127,María Flores,cliente127@ejemplo.test,COAHUILA,2025-09-16
+128,Juan López,cliente128@ejemplo.test,TAMAULIPAS,2025-01-03
+129,Ana Ruiz,cliente129@ejemplo.test,CDMX,2025-10-11
+130,Sofía Ruiz,cliente130@ejemplo.test,NL,2025-05-07
+131,Luis García,cliente131@ejemplo.test,Puebla,2026-01-22
+132,María López,cliente132@ejemplo.test,PUE,2025-04-09
+133,Elena García,cliente133@ejemplo.test,Coahuila,2026-03-17
+134,Elena Martínez,cliente134@ejemplo.test,CDMX,2025-02-01
+135,Pedro García,cliente135@ejemplo.test,QRO,2025-10-11
+136,Luis López,cliente136@ejemplo.test,COAH,2026-02-06
+137,Pedro Ruiz,cliente137@ejemplo.test,Ciudad de México,2025-09-02
+138,Carlos Flores,cliente138@ejemplo.test,CIUDAD DE MÉXICO,2025-11-20
+139,Ana Ruiz,cliente139@ejemplo.test,Coahuila,2025-08-28
+140,Elena Torres,cliente140@ejemplo.test,COAH,2025-07-25
+141,Ana López,cliente141@ejemplo.test,Puebla,2025-04-01
+142,Elena Torres,cliente142@ejemplo.test,Ciudad de México,2025-02-07
+143,Juan García,cliente143@ejemplo.test,GUANAJUATO,2026-05-14
+144,Carlos García,cliente144@ejemplo.test,JAL,2025-01-31
+145,Juan Torres,cliente145@ejemplo.test,Nuevo León,2025-10-15
+146,Sofía Martínez,cliente146@ejemplo.test,Querétaro,2025-12-22
+147,María Torres,cliente147@ejemplo.test,GUANAJUATO,2026-02-09
+148,Luis Ruiz,cliente148@ejemplo.test,,2026-05-02
+149,Sofía López,cliente149@ejemplo.test,JALISCO,2025-05-14
+150,Carlos Torres,cliente150@ejemplo.test,CDMX,2025-07-01
+151,Juan Flores,cliente151@ejemplo.test,GUANAJUATO,2025-12-10
+152,Luis Ruiz,cliente152@ejemplo.test,PUE,2025-04-28
+153,María López,cliente153@ejemplo.test,Guanajuato,2025-04-27
+154,Ana Martínez,cliente154@ejemplo.test,QRO,2025-03-25
+155,Juan Torres,cliente155@ejemplo.test,GUANAJUATO,2026-03-09
+156,Elena Torres,cliente156@ejemplo.test,Coahuila,2025-01-26
+157,Ana García,cliente157@ejemplo.test,PUE,2025-01-16
+158,Ana Ruiz,cliente158@ejemplo.test,JALISCO,2025-12-04
+159,Juan Ruiz,,COAH,2025-09-20
+160,Carlos Ruiz,cliente160@ejemplo.test,QRO,2025-01-10
+161,Pedro Torres,cliente161@ejemplo.test,PUE,2026-01-05
+162,Pedro Torres,cliente162@ejemplo.test,GTO,2025-06-17
+163,Elena Torres,cliente163@ejemplo.test,JALISCO,2025-02-26
+164,Carlos García,cliente164@ejemplo.test,Tamaulipas,2026-03-27
+165,Carlos Flores,cliente165@ejemplo.test,TAMAULIPAS,2025-09-01
+166,María Flores,cliente166@ejemplo.test,GTO,2025-04-30
+167,Sofía Martínez,cliente167@ejemplo.test,COAH,2026-04-22
+168,Juan López,cliente168@ejemplo.test,Coahuila,2025-02-07
+169,Carlos Ruiz,cliente169@ejemplo.test,PUEBLA,2026-04-02
+170,Elena Flores,cliente170@ejemplo.test,PUE,2025-11-13
+171,María López,cliente171@ejemplo.test,TAMPS,2025-08-10
+172,Juan López,cliente172@ejemplo.test,Coahuila,2026-03-05
+173,Sofía Martínez,cliente173@ejemplo.test,COAH,2025-06-13
+174,María Torres,cliente174@ejemplo.test,NUEVO LEÓN,2025-07-15
+175,Carlos Martínez,cliente175@ejemplo.test,Ciudad de México,2025-12-10
+176,Luis Flores,cliente176@ejemplo.test,QUERÉTARO,2025-01-28
+177,Ana López,cliente177@ejemplo.test,PUEBLA,2025-02-16
+178,Pedro Martínez,cliente178@ejemplo.test,GUANAJUATO,2025-04-24
+179,Luis López,cliente179@ejemplo.test,Jalisco,2025-06-16
+180,Sofía Ruiz,cliente180@ejemplo.test,PUEBLA,2025-07-10
+181,Ana Torres,cliente181@ejemplo.test,Tamaulipas,2026-01-23
+182,Juan López,cliente182@ejemplo.test,Tamaulipas,2026-04-25
+183,Carlos Flores,cliente183@ejemplo.test,GUANAJUATO,2025-07-21
+184,Juan García,cliente184@ejemplo.test,QUERÉTARO,2025-05-04
+185,Luis López,cliente185@ejemplo.test,,2025-05-01
+186,Elena Ruiz,cliente186@ejemplo.test,QUERÉTARO,2025-11-16
+187,Carlos García,cliente187@ejemplo.test,Coahuila,2025-09-17
+188,María Ruiz,cliente188@ejemplo.test,NL,2025-03-18
+189,Carlos López,cliente189@ejemplo.test,NUEVO LEÓN,2025-08-04
+190,Luis Martínez,cliente190@ejemplo.test,Nuevo León,2025-09-28
+191,Luis Martínez,cliente191@ejemplo.test,Puebla,2025-12-06
+192,Carlos Torres,cliente192@ejemplo.test,CDMX,2025-05-03
+193,Elena Flores,cliente193@ejemplo.test,GUANAJUATO,2025-10-22
+194,María López,cliente194@ejemplo.test,GUANAJUATO,2026-01-22
+195,Carlos Ruiz,cliente195@ejemplo.test,GUANAJUATO,2025-06-11
+196,Luis López,cliente196@ejemplo.test,Jalisco,2025-11-03
+197,Luis López,cliente197@ejemplo.test,GUANAJUATO,2025-09-14
+198,Pedro García,cliente198@ejemplo.test,Tamaulipas,2025-04-01
+199,Ana Torres,cliente199@ejemplo.test,JAL,2026-01-27
+200,María López,cliente200@ejemplo.test,Puebla,2026-03-16
+201,Carlos López,cliente201@ejemplo.test,NUEVO LEÓN,2025-01-23
+202,Luis Flores,cliente202@ejemplo.test,Querétaro,2025-01-24
+203,María Martínez,cliente203@ejemplo.test,CIUDAD DE MÉXICO,2025-04-15
+204,Juan Torres,cliente204@ejemplo.test,Querétaro,2025-04-27
+205,Elena Flores,cliente205@ejemplo.test,CDMX,2026-02-27
+206,Pedro Flores,cliente206@ejemplo.test,PUEBLA,2025-08-08
+207,Carlos López,cliente207@ejemplo.test,PUE,2025-01-20
+208,Juan Torres,cliente208@ejemplo.test,PUE,2025-05-24
+209,Ana López,cliente209@ejemplo.test,TAMPS,2026-02-04
+210,Juan Martínez,cliente210@ejemplo.test,JALISCO,2025-04-07
+211,Luis García,cliente211@ejemplo.test,CIUDAD DE MÉXICO,2025-11-12
+212,Carlos Torres,,Querétaro,2025-12-04
+213,Carlos Flores,cliente213@ejemplo.test,Puebla,2025-08-10
+214,Elena Martínez,cliente214@ejemplo.test,Querétaro,2025-07-28
+215,Juan Ruiz,cliente215@ejemplo.test,Tamaulipas,2026-04-10
+216,Ana Flores,cliente216@ejemplo.test,Nuevo León,2026-04-25
+217,Elena Torres,cliente217@ejemplo.test,Guanajuato,2025-09-14
+218,Luis Ruiz,cliente218@ejemplo.test,CIUDAD DE MÉXICO,2025-10-17
+219,Luis Torres,cliente219@ejemplo.test,Jalisco,2025-12-22
+220,María López,cliente220@ejemplo.test,COAHUILA,2025-04-24
+221,Carlos Ruiz,cliente221@ejemplo.test,NL,2025-05-16
+222,María López,cliente222@ejemplo.test,,2026-01-30
+223,Juan López,cliente223@ejemplo.test,Jalisco,2026-04-02
+224,Sofía Flores,cliente224@ejemplo.test,CDMX,2025-12-05
+225,Sofía Ruiz,cliente225@ejemplo.test,CDMX,2025-01-31
+226,Luis Torres,cliente226@ejemplo.test,GUANAJUATO,2025-02-24
+227,Elena García,cliente227@ejemplo.test,QRO,2026-03-30
+228,Elena García,cliente228@ejemplo.test,COAH,2025-01-02
+229,Elena Torres,cliente229@ejemplo.test,TAMAULIPAS,2025-08-08
+230,Pedro López,cliente230@ejemplo.test,JAL,2025-07-10
+231,Carlos Martínez,cliente231@ejemplo.test,TAMAULIPAS,2025-10-15
+232,Elena Martínez,cliente232@ejemplo.test,GUANAJUATO,2026-04-26
+233,Ana Torres,cliente233@ejemplo.test,QRO,2025-03-03
+234,Carlos Flores,cliente234@ejemplo.test,NL,2026-01-23
+235,María Martínez,cliente235@ejemplo.test,PUEBLA,2025-12-17
+236,Luis Flores,cliente236@ejemplo.test,TAMAULIPAS,2025-09-13
+237,María García,cliente237@ejemplo.test,CDMX,2026-02-11
+238,Ana Ruiz,cliente238@ejemplo.test,NUEVO LEÓN,2025-01-04
+239,Sofía Martínez,cliente239@ejemplo.test,Coahuila,2025-10-17
+240,Elena Martínez,cliente240@ejemplo.test,PUE,2025-10-02
+241,Sofía García,cliente241@ejemplo.test,Puebla,2025-10-03
+242,Ana Flores,cliente242@ejemplo.test,Nuevo León,2025-11-09
+243,Carlos Torres,cliente243@ejemplo.test,CDMX,2026-01-12
+244,Elena López,cliente244@ejemplo.test,Puebla,2025-09-29
+245,Juan García,cliente245@ejemplo.test,GTO,2025-08-09
+246,Ana Martínez,cliente246@ejemplo.test,PUEBLA,2025-05-23
+247,Ana Torres,cliente247@ejemplo.test,NUEVO LEÓN,2026-05-15
+248,Juan Ruiz,cliente248@ejemplo.test,TAMAULIPAS,2025-09-20
+249,Carlos Torres,cliente249@ejemplo.test,GUANAJUATO,2025-03-31
+250,Carlos Martínez,cliente250@ejemplo.test,QRO,2025-06-04
+251,María García,cliente251@ejemplo.test,TAMAULIPAS,2026-02-12
+252,Carlos Torres,cliente252@ejemplo.test,Querétaro,2026-04-02
+253,Pedro Flores,cliente253@ejemplo.test,GUANAJUATO,2025-09-27
+254,Pedro Torres,cliente254@ejemplo.test,PUEBLA,2025-01-20
+255,María Ruiz,cliente255@ejemplo.test,Guanajuato,2025-09-21
+256,Pedro Torres,cliente256@ejemplo.test,CDMX,2025-08-02
+257,Elena Torres,cliente257@ejemplo.test,TAMPS,2026-05-08
+258,Elena Martínez,cliente258@ejemplo.test,CDMX,2025-03-26
+259,Luis García,cliente259@ejemplo.test,,2025-05-07
+260,María Martínez,cliente260@ejemplo.test,QRO,2026-01-14
+261,Ana Flores,cliente261@ejemplo.test,Nuevo León,2026-03-31
+262,Luis López,cliente262@ejemplo.test,Ciudad de México,2025-02-04
+263,Sofía Martínez,cliente263@ejemplo.test,JAL,2025-07-22
+264,Juan Martínez,cliente264@ejemplo.test,NL,2026-02-06
+265,Luis Ruiz,,PUEBLA,2025-08-20
+266,Carlos López,cliente266@ejemplo.test,NL,2025-06-15
+267,María López,cliente267@ejemplo.test,NL,2025-09-21
+268,Juan López,cliente268@ejemplo.test,TAMPS,2025-01-08
+269,Carlos Torres,cliente269@ejemplo.test,GTO,2025-04-22
+270,Luis Flores,cliente270@ejemplo.test,TAMAULIPAS,2025-03-03
+271,Juan Torres,cliente271@ejemplo.test,GTO,2026-01-13
+272,Juan Ruiz,cliente272@ejemplo.test,Nuevo León,2025-10-27
+273,María Torres,cliente273@ejemplo.test,Ciudad de México,2025-08-07
+274,Elena García,cliente274@ejemplo.test,Tamaulipas,2026-03-14
+275,Luis Flores,cliente275@ejemplo.test,NUEVO LEÓN,2025-12-21
+276,Ana López,cliente276@ejemplo.test,TAMAULIPAS,2025-02-18
+277,Sofía Torres,cliente277@ejemplo.test,JAL,2025-12-12
+278,Juan Ruiz,cliente278@ejemplo.test,TAMAULIPAS,2025-10-04
+279,Luis García,cliente279@ejemplo.test,Jalisco,2025-02-03
+280,Sofía García,cliente280@ejemplo.test,COAHUILA,2026-01-16
+281,María Torres,cliente281@ejemplo.test,QRO,2025-12-18
+282,Carlos Ruiz,cliente282@ejemplo.test,Querétaro,2025-06-03
+283,Pedro Martínez,cliente283@ejemplo.test,Nuevo León,2025-10-29
+284,Ana García,cliente284@ejemplo.test,Querétaro,2025-04-05
+285,María Ruiz,cliente285@ejemplo.test,NUEVO LEÓN,2026-03-02
+286,Luis Martínez,cliente286@ejemplo.test,Nuevo León,2025-07-08
+287,María Ruiz,cliente287@ejemplo.test,PUE,2025-11-25
+288,Elena Torres,cliente288@ejemplo.test,COAHUILA,2026-04-15
+289,Luis Flores,cliente289@ejemplo.test,Guanajuato,2026-03-28
+290,María Martínez,cliente290@ejemplo.test,QRO,2025-10-05
+291,Pedro Martínez,cliente291@ejemplo.test,COAHUILA,2025-07-31
+292,Pedro García,cliente292@ejemplo.test,Tamaulipas,2025-03-17
+293,María Martínez,cliente293@ejemplo.test,QUERÉTARO,2025-04-13
+294,Luis Flores,cliente294@ejemplo.test,CIUDAD DE MÉXICO,2026-04-30
+295,Elena García,cliente295@ejemplo.test,COAHUILA,2025-10-16
+296,Luis Martínez,cliente296@ejemplo.test,,2025-04-02
+297,Pedro García,cliente297@ejemplo.test,Querétaro,2025-05-23
+298,Sofía Flores,cliente298@ejemplo.test,TAMPS,2025-06-18
+299,Elena Ruiz,cliente299@ejemplo.test,TAMPS,2025-08-16
+300,Luis Flores,cliente300@ejemplo.test,PUE,2025-10-11
+301,Ana López,cliente301@ejemplo.test,QRO,2025-08-09
+302,María Flores,cliente302@ejemplo.test,Guanajuato,2025-12-22
+303,Carlos Martínez,cliente303@ejemplo.test,Guanajuato,2026-01-31
+304,María Flores,cliente304@ejemplo.test,CIUDAD DE MÉXICO,2025-08-12
+305,Ana Martínez,cliente305@ejemplo.test,QUERÉTARO,2025-02-27
+306,Carlos López,cliente306@ejemplo.test,JAL,2025-07-23
+307,Luis Flores,cliente307@ejemplo.test,TAMAULIPAS,2025-10-03
+308,Pedro Flores,cliente308@ejemplo.test,Ciudad de México,2025-09-09
+309,María García,cliente309@ejemplo.test,GTO,2025-05-12
+310,Sofía Ruiz,cliente310@ejemplo.test,GTO,2025-09-30
+311,Carlos Torres,cliente311@ejemplo.test,GTO,2025-03-31
+312,Pedro Torres,cliente312@ejemplo.test,Nuevo León,2025-09-02
+313,Juan López,cliente313@ejemplo.test,GUANAJUATO,2026-03-03
+314,Sofía Ruiz,cliente314@ejemplo.test,CIUDAD DE MÉXICO,2026-04-12
+315,Juan Flores,cliente315@ejemplo.test,PUEBLA,2026-01-25
+316,Ana Flores,cliente316@ejemplo.test,CDMX,2026-03-22
+317,Juan García,cliente317@ejemplo.test,Tamaulipas,2026-03-13
+318,Pedro Flores,,PUE,2025-12-03
+319,Luis Torres,cliente319@ejemplo.test,JALISCO,2025-03-27
+320,Elena López,cliente320@ejemplo.test,Ciudad de México,2025-01-30
+321,Elena Torres,cliente321@ejemplo.test,GUANAJUATO,2025-06-16
+322,Carlos Ruiz,cliente322@ejemplo.test,PUE,2025-11-13
+323,Elena Ruiz,cliente323@ejemplo.test,Guanajuato,2026-02-16
+324,Luis Martínez,cliente324@ejemplo.test,GTO,2025-07-19
+325,Luis Martínez,cliente325@ejemplo.test,Ciudad de México,2026-01-06
+326,Pedro Torres,cliente326@ejemplo.test,Ciudad de México,2025-12-23
+327,Carlos Torres,cliente327@ejemplo.test,COAH,2026-03-05
+328,Carlos Flores,cliente328@ejemplo.test,COAHUILA,2026-03-09
+329,Sofía García,cliente329@ejemplo.test,GUANAJUATO,2025-09-12
+330,Juan Flores,cliente330@ejemplo.test,Jalisco,2026-02-21
+331,Carlos García,cliente331@ejemplo.test,QUERÉTARO,2025-01-18
+332,Elena Martínez,cliente332@ejemplo.test,QUERÉTARO,2025-03-14
+333,Sofía López,cliente333@ejemplo.test,,2025-02-04
+334,Elena Ruiz,cliente334@ejemplo.test,Ciudad de México,2025-08-08
+335,Juan López,cliente335@ejemplo.test,QUERÉTARO,2025-09-08
+336,María Flores,cliente336@ejemplo.test,Guanajuato,2025-12-13
+337,Juan Flores,cliente337@ejemplo.test,JALISCO,2025-12-21
+338,Carlos López,cliente338@ejemplo.test,CIUDAD DE MÉXICO,2025-12-24
+339,Ana García,cliente339@ejemplo.test,QRO,2025-04-28
+340,Luis Martínez,cliente340@ejemplo.test,Nuevo León,2025-04-02
+341,Pedro Martínez,cliente341@ejemplo.test,CIUDAD DE MÉXICO,2026-02-07
+342,Carlos Flores,cliente342@ejemplo.test,PUEBLA,2025-03-09
+343,Carlos Torres,cliente343@ejemplo.test,GUANAJUATO,2025-06-13
+344,Pedro López,cliente344@ejemplo.test,TAMPS,2025-10-01
+345,Sofía Ruiz,cliente345@ejemplo.test,Puebla,2025-12-28
+346,Pedro Martínez,cliente346@ejemplo.test,Puebla,2025-09-15
+347,María García,cliente347@ejemplo.test,CDMX,2025-01-28
+348,Ana Martínez,cliente348@ejemplo.test,Querétaro,2025-06-03
+349,Juan García,cliente349@ejemplo.test,GUANAJUATO,2026-04-07
+350,Juan Ruiz,cliente350@ejemplo.test,COAHUILA,2026-04-01
+351,Elena García,cliente351@ejemplo.test,Guanajuato,2025-12-05
+352,Ana Flores,cliente352@ejemplo.test,QUERÉTARO,2025-01-03
+353,Sofía Martínez,cliente353@ejemplo.test,NUEVO LEÓN,2026-01-23
+354,Sofía Martínez,cliente354@ejemplo.test,NUEVO LEÓN,2025-02-01
+355,Pedro Torres,cliente355@ejemplo.test,Ciudad de México,2025-02-25
+356,Sofía Martínez,cliente356@ejemplo.test,JALISCO,2025-04-15
+357,Ana Flores,cliente357@ejemplo.test,COAH,2025-07-12
+358,Juan Flores,cliente358@ejemplo.test,PUE,2026-03-31
+359,María López,cliente359@ejemplo.test,Guanajuato,2025-10-01
+360,Elena Torres,cliente360@ejemplo.test,PUEBLA,2025-07-07
+361,Carlos Flores,cliente361@ejemplo.test,Nuevo León,2025-04-23
+362,Sofía Flores,cliente362@ejemplo.test,PUEBLA,2025-07-27
+363,Ana Flores,cliente363@ejemplo.test,TAMAULIPAS,2025-08-04
+364,Pedro Ruiz,cliente364@ejemplo.test,CIUDAD DE MÉXICO,2025-02-04
+365,Luis Ruiz,cliente365@ejemplo.test,Guanajuato,2026-01-13
+366,Ana López,cliente366@ejemplo.test,Tamaulipas,2026-02-07
+367,María Torres,cliente367@ejemplo.test,QUERÉTARO,2025-09-04
+368,Pedro García,cliente368@ejemplo.test,QUERÉTARO,2026-03-22
+369,Sofía Flores,cliente369@ejemplo.test,GTO,2025-02-11
+370,Elena Ruiz,cliente370@ejemplo.test,,2025-04-30
+371,Ana Martínez,,CDMX,2026-02-23
+372,Juan Torres,cliente372@ejemplo.test,CIUDAD DE MÉXICO,2026-01-24
+373,Sofía García,cliente373@ejemplo.test,TAMPS,2026-02-10
+374,Luis Flores,cliente374@ejemplo.test,PUEBLA,2025-12-10
+375,Luis Martínez,cliente375@ejemplo.test,Jalisco,2026-01-21
+376,Pedro Flores,cliente376@ejemplo.test,QUERÉTARO,2025-03-14
+377,Luis Martínez,cliente377@ejemplo.test,QUERÉTARO,2025-12-11
+378,Carlos Torres,cliente378@ejemplo.test,Nuevo León,2025-05-24
+379,Ana Flores,cliente379@ejemplo.test,Coahuila,2025-02-03
+380,Elena Torres,cliente380@ejemplo.test,CDMX,2026-02-01
+381,Juan López,cliente381@ejemplo.test,CIUDAD DE MÉXICO,2025-09-17
+382,Luis Martínez,cliente382@ejemplo.test,TAMAULIPAS,2025-01-14
+383,Juan Flores,cliente383@ejemplo.test,Guanajuato,2025-02-24
+384,Juan Ruiz,cliente384@ejemplo.test,Querétaro,2025-04-28
+385,Elena García,cliente385@ejemplo.test,Jalisco,2025-06-30
+386,Carlos García,cliente386@ejemplo.test,CIUDAD DE MÉXICO,2025-08-20
+387,Elena García,cliente387@ejemplo.test,JAL,2025-09-14
+388,Sofía Martínez,cliente388@ejemplo.test,Ciudad de México,2025-11-25
+389,Carlos Flores,cliente389@ejemplo.test,JALISCO,2025-05-07
+390,Sofía Martínez,cliente390@ejemplo.test,Puebla,2026-01-05
+391,Carlos López,cliente391@ejemplo.test,JALISCO,2025-08-08
+392,Carlos Flores,cliente392@ejemplo.test,GTO,2025-02-26
+393,Carlos López,cliente393@ejemplo.test,COAH,2025-12-17
+394,Carlos García,cliente394@ejemplo.test,COAH,2025-07-03
+395,Sofía Torres,cliente395@ejemplo.test,TAMPS,2025-12-08
+396,Juan Torres,cliente396@ejemplo.test,PUEBLA,2025-02-20
+397,Carlos Flores,cliente397@ejemplo.test,Coahuila,2025-09-01
+398,Elena Martínez,cliente398@ejemplo.test,COAHUILA,2025-01-20
+399,Luis García,cliente399@ejemplo.test,JALISCO,2025-03-06
+400,Elena Torres,cliente400@ejemplo.test,NL,2025-12-03
+401,María Torres,cliente401@ejemplo.test,COAH,2025-03-29
+402,Elena Martínez,cliente402@ejemplo.test,Guanajuato,2025-12-27
+403,Carlos García,cliente403@ejemplo.test,Querétaro,2025-11-26
+404,Ana López,cliente404@ejemplo.test,CIUDAD DE MÉXICO,2025-08-27
+405,Ana Martínez,cliente405@ejemplo.test,Jalisco,2025-07-31
+406,Sofía Ruiz,cliente406@ejemplo.test,Nuevo León,2025-01-29
+407,María Flores,cliente407@ejemplo.test,,2026-03-07
+408,María Ruiz,cliente408@ejemplo.test,Ciudad de México,2025-02-03
+409,Sofía López,cliente409@ejemplo.test,Tamaulipas,2026-03-26
+410,Elena García,cliente410@ejemplo.test,NUEVO LEÓN,2025-09-30
+411,Pedro López,cliente411@ejemplo.test,QUERÉTARO,2025-02-28
+412,Pedro García,cliente412@ejemplo.test,Coahuila,2025-08-05
+413,Sofía Flores,cliente413@ejemplo.test,PUE,2025-12-23
+414,Carlos Ruiz,cliente414@ejemplo.test,PUE,2025-08-27
+415,Juan Torres,cliente415@ejemplo.test,COAHUILA,2025-08-29
+416,Pedro Flores,cliente416@ejemplo.test,Guanajuato,2025-05-14
+417,Luis Martínez,cliente417@ejemplo.test,COAHUILA,2025-12-01
+418,Carlos Flores,cliente418@ejemplo.test,NL,2025-10-25
+419,Juan López,cliente419@ejemplo.test,PUE,2026-02-04
+420,Elena Martínez,cliente420@ejemplo.test,QUERÉTARO,2025-07-17
+421,Pedro Ruiz,cliente421@ejemplo.test,Ciudad de México,2026-03-09
+422,María Flores,cliente422@ejemplo.test,TAMAULIPAS,2025-12-15
+423,Ana Martínez,cliente423@ejemplo.test,QUERÉTARO,2026-01-11
+424,Pedro Flores,,Puebla,2025-05-13
+425,María López,cliente425@ejemplo.test,PUEBLA,2026-05-11
+426,Juan Torres,cliente426@ejemplo.test,JALISCO,2025-11-02
+427,Sofía Torres,cliente427@ejemplo.test,CDMX,2026-04-19
+428,Juan Flores,cliente428@ejemplo.test,JAL,2025-09-18
+429,Sofía Torres,cliente429@ejemplo.test,NL,2025-03-26
+430,Carlos Ruiz,cliente430@ejemplo.test,Ciudad de México,2025-12-31
+431,Ana López,cliente431@ejemplo.test,NUEVO LEÓN,2025-06-01
+432,Luis López,cliente432@ejemplo.test,PUEBLA,2026-04-27
+433,Luis López,cliente433@ejemplo.test,NUEVO LEÓN,2025-08-03
+434,Carlos García,cliente434@ejemplo.test,NUEVO LEÓN,2025-10-20
+435,Ana López,cliente435@ejemplo.test,NUEVO LEÓN,2025-10-23
+436,Elena Flores,cliente436@ejemplo.test,CIUDAD DE MÉXICO,2026-02-26
+437,Luis López,cliente437@ejemplo.test,Coahuila,2026-01-21
+438,María Ruiz,cliente438@ejemplo.test,NUEVO LEÓN,2025-07-07
+439,Luis López,cliente439@ejemplo.test,NL,2025-07-19
+440,Carlos Torres,cliente440@ejemplo.test,CDMX,2025-09-11
+441,Luis Martínez,cliente441@ejemplo.test,JALISCO,2026-01-29
+442,Juan López,cliente442@ejemplo.test,Querétaro,2025-08-15
+443,Ana Ruiz,cliente443@ejemplo.test,QUERÉTARO,2026-05-06
+444,Elena Flores,cliente444@ejemplo.test,,2025-12-13
+445,Luis López,cliente445@ejemplo.test,Jalisco,2025-08-25
+446,Juan López,cliente446@ejemplo.test,TAMPS,2025-01-07
+447,Elena Torres,cliente447@ejemplo.test,Puebla,2025-09-14
+448,Ana Ruiz,cliente448@ejemplo.test,GTO,2025-03-12
+449,Sofía López,cliente449@ejemplo.test,TAMPS,2025-01-25
+450,Luis Martínez,cliente450@ejemplo.test,TAMAULIPAS,2025-11-23
+451,Juan Ruiz,cliente451@ejemplo.test,Jalisco,2025-02-14
+452,Pedro López,cliente452@ejemplo.test,PUE,2025-02-18
+453,Sofía Martínez,cliente453@ejemplo.test,Tamaulipas,2026-03-01
+454,Pedro López,cliente454@ejemplo.test,Guanajuato,2025-02-19
+455,Ana Flores,cliente455@ejemplo.test,Jalisco,2026-02-18
+456,Luis Flores,cliente456@ejemplo.test,Ciudad de México,2025-08-17
+457,María Martínez,cliente457@ejemplo.test,PUEBLA,2026-01-28
+458,Luis García,cliente458@ejemplo.test,PUE,2026-04-26
+459,Carlos García,cliente459@ejemplo.test,TAMPS,2025-11-18
+460,Juan Ruiz,cliente460@ejemplo.test,COAHUILA,2026-01-10
+461,Sofía Torres,cliente461@ejemplo.test,JALISCO,2025-07-25
+462,Pedro Torres,cliente462@ejemplo.test,QRO,2025-06-13
+463,María García,cliente463@ejemplo.test,PUE,2025-08-27
+464,Pedro Martínez,cliente464@ejemplo.test,Tamaulipas,2025-12-02
+465,Ana Flores,cliente465@ejemplo.test,COAH,2025-11-25
+466,Elena Ruiz,cliente466@ejemplo.test,GTO,2025-10-17
+467,Luis Flores,cliente467@ejemplo.test,CDMX,2025-01-15
+468,Luis Martínez,cliente468@ejemplo.test,Puebla,2025-04-30
+469,Juan Martínez,cliente469@ejemplo.test,QRO,2025-03-30
+470,Carlos García,cliente470@ejemplo.test,TAMPS,2025-08-23
+471,Juan Torres,cliente471@ejemplo.test,CIUDAD DE MÉXICO,2026-04-04
+472,Luis García,cliente472@ejemplo.test,PUEBLA,2025-07-18
+473,Carlos Torres,cliente473@ejemplo.test,JAL,2025-04-03
+474,Elena Torres,cliente474@ejemplo.test,Ciudad de México,2025-01-11
+475,Sofía Martínez,cliente475@ejemplo.test,JAL,2025-09-23
+476,Carlos García,cliente476@ejemplo.test,Ciudad de México,2025-09-06
+477,Elena López,,Guanajuato,2025-09-21
+478,Elena López,cliente478@ejemplo.test,Tamaulipas,2025-07-12
+479,Luis Ruiz,cliente479@ejemplo.test,CDMX,2026-03-12
+480,Pedro Torres,cliente480@ejemplo.test,COAHUILA,2026-02-08
+481,María Flores,cliente481@ejemplo.test,,2025-11-13
+482,Sofía García,cliente482@ejemplo.test,Querétaro,2025-04-26
+483,Ana Ruiz,cliente483@ejemplo.test,TAMPS,2025-01-16
+484,Ana Martínez,cliente484@ejemplo.test,Querétaro,2026-01-30
+485,Sofía Ruiz,cliente485@ejemplo.test,GUANAJUATO,2025-03-22
+486,Juan Torres,cliente486@ejemplo.test,JAL,2025-07-09
+487,María López,cliente487@ejemplo.test,QRO,2025-07-19
+488,Pedro Martínez,cliente488@ejemplo.test,QRO,2025-05-30
+489,Carlos Ruiz,cliente489@ejemplo.test,JAL,2025-02-25
+490,Sofía López,cliente490@ejemplo.test,COAHUILA,2026-02-12
+491,Ana García,cliente491@ejemplo.test,TAMPS,2025-05-17
+492,Sofía Ruiz,cliente492@ejemplo.test,Nuevo León,2026-02-26
+493,Ana Martínez,cliente493@ejemplo.test,Ciudad de México,2025-01-11
+494,Sofía García,cliente494@ejemplo.test,Jalisco,2025-03-16
+495,Pedro Martínez,cliente495@ejemplo.test,PUEBLA,2025-08-13
+496,Pedro Flores,cliente496@ejemplo.test,GUANAJUATO,2026-03-20
+497,Elena López,cliente497@ejemplo.test,QUERÉTARO,2025-10-11
+498,Pedro Flores,cliente498@ejemplo.test,Ciudad de México,2026-01-30
+499,Elena López,cliente499@ejemplo.test,NUEVO LEÓN,2025-05-21
+500,Elena Martínez,cliente500@ejemplo.test,QRO,2025-06-14
+1,Ana Martínez,cliente1@ejemplo.test,Guanajuato,2026-01-13
+2,Carlos Martínez,cliente2@ejemplo.test,CIUDAD DE MÉXICO,2026-03-12
+3,Elena García,cliente3@ejemplo.test,Guanajuato,2025-02-08
+4,Carlos López,cliente4@ejemplo.test,Jalisco,2025-10-05
+5,Ana Martínez,cliente5@ejemplo.test,CIUDAD DE MÉXICO,2025-04-16
+6,Elena García,cliente6@ejemplo.test,JAL,2026-03-01
+7,Carlos García,cliente7@ejemplo.test,QUERÉTARO,2025-03-28
+8,Ana López,cliente8@ejemplo.test,TAMAULIPAS,2025-10-13
+9,María López,cliente9@ejemplo.test,Nuevo León,2025-03-23
+10,Pedro López,cliente10@ejemplo.test,GUANAJUATO,2025-02-15

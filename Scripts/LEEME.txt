@@ -1,0 +1,25 @@
+Laboratorio ETL · Unidad 4 · Scripts por paso
+================================================
+
+Orden de ejecución (en MySQL Workbench: File > Open SQL Script, luego el rayo para ejecutar todo):
+
+  Preparación (una sola vez):
+    1. ..\Recursos de la practica\01_creacion_bd.sql  Crea la base u4_etl y sus tablas
+    2. ..\Recursos de la practica\pedidos.sql         Carga raw_pedidos (ejecutar UNA sola vez)
+    3. ..\02_carga_clientes_catalogo.sql              Carga raw_clientes y catalogo_estados (re-ejecutable)
+
+  Proceso ETL (en este orden):
+    P1_perfilado.sql
+    P2_staging.sql
+    P3_normalizacion.sql
+    P4_validacion_rechazos.sql
+    P5_carga_incremental.sql
+    P6_conciliacion.sql
+    P7_indicadores.sql
+
+Cada script depende de las tablas o vistas que crea el anterior.
+Todos se pueden volver a ejecutar sin duplicar datos: las tablas de trabajo se vacían con TRUNCATE
+y las tablas finales (dim_cliente, fact_ordenes) se cargan con UPSERT.
+Excepción: P6 agrega una fila nueva a etl_auditoria en cada ejecución (es la bitácora).
+
+El archivo ..\03_etl_unidad4.sql contiene los mismos pasos en un solo script.
